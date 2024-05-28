@@ -1,10 +1,11 @@
 # deep-learning-2024
 # 导入相关模块
-
+'''
 import torch
 from torch import nn
 import torch.nn.utils.prune as prune
 import torch.nn.functional as F
+'''
 
 #设置设备，如果有cuda，就用cuda/GPU，否则用CPU
 
